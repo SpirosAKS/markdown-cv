@@ -23,21 +23,18 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Machine Learning, Internet of Things (IoT),Low Power Wide Area Networks (LPWAN)
+Machine Learning, Internet of Things (IoT), Low Power Wide Area Networks (LPWAN)
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2014 - 2019`
+__Computer Engineering and Informatics, University of Patras__
 
 - Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2019 - 2020`
+__Master Human Computer Interaction, University of Patras__
 
 - Fellow
 
