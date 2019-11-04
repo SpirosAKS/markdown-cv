@@ -70,7 +70,7 @@ __IT Member__, EESTEC, Lc Patras, Greece
 __Lab Assistant on the course "Databases"__, Department of Computer Engineering and Informatics, University of Patras, Patras, Greece
 
 `2018-present`
-__Laboratory of Distributed Systems and Telemeatics__, Department of Computer Engineering and Informatics, Building B, University of Patras, Patras, Greece
+__Laboratory of Distributed Systems and Telematics__, Department of Computer Engineering and Informatics, Building B, University of Patras, Patras, Greece
 
 -IT administrator member: Management of the servers of the Lab
 
