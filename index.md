@@ -6,8 +6,8 @@ title: Isaac Newtons's CV
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="ksalgado@ceid.upatras.gr">ksalgado@ceid.upatras.gr</a>
+| <a href="http://ru6.cti.gr/ru6/users/spyridon-aniceto-katsampiris-salgado">My page</a>
 </div>
 
 
