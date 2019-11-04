@@ -16,11 +16,6 @@ Scintefic Researcher, Laboratory of Distributed Systems and Telematics, Universi
 Spyridon Aniceto Katsampiris Salgado was born in 1996. He entered the Department of Computer Engineering and Informatics at University of Patras in 2014 and now he is an postgraduate student in the Master Human-Computer Interaction. He has obtained the Michigan Certificate of Proficiency in English. He joined Research Unit 6 in 2019 and he is interested in machine learning, Internet of the Things and LoRA networks.
 
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
 ### Research interests
 
 Machine Learning, Internet of Things (IoT), Low Power Wide Area Networks (LPWAN)
@@ -29,12 +24,12 @@ Machine Learning, Internet of Things (IoT), Low Power Wide Area Networks (LPWAN)
 ## Education
 
 `2014 - 2019`
-__Computer Engineering and Informatics, University of Patras__
+__MEmg. Computer Engineering and Informatics, University of Patras__
 
 - Sizar
 
 `2019 - 2020`
-__Master Human Computer Interaction, University of Patras__
+__Msc. Human Computer Interaction, University of Patras__
 
 - Fellow
 
@@ -56,11 +51,12 @@ _GuideMe_: This proposal facilitates people with special characteristics to  mov
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2018-present`
+__Laboratory of Distributed Systems and Telemeatics__, University of Patras, Patras
+-IT administrator member: Management of the servers of the Lab
 
-- Warden
-- Minted coins
+-Research on LPWAN (Low Power Wide Area Networks), especially on LoRa and NB-IoT. 
+Main purpose is the study of algorithms for achieving energy efficiency, using simulations such as OMNeT++.
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
