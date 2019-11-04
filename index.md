@@ -26,12 +26,10 @@ Machine Learning, Internet of Things (IoT), Low Power Wide Area Networks (LPWAN)
 `2014 - 2019`
 __MEng. Computer Engineering and Informatics, University of Patras__
 
-- Sizar
 
 `2019 - 2020`
 __Msc. Human Computer Interaction, University of Patras__
 
-- Fellow
 
 
 ## Publications
