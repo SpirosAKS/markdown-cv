@@ -24,7 +24,7 @@ Machine Learning, Internet of Things (IoT), Low Power Wide Area Networks (LPWAN)
 ## Education
 
 `2014 - 2019`
-__MEmg. Computer Engineering and Informatics, University of Patras__
+__MEng. Computer Engineering and Informatics, University of Patras__
 
 - Sizar
 
@@ -44,6 +44,10 @@ Bouras C., Gkamas A., Katsampiris Salgado S.A., Kokkinos V. (2020) Comparison of
 
 `2018-present`
 _WeSAR_: The aim of the project is to design and develop a system for identifying and rescuing individuals, especially those belonging to population groups with a particularly high probability of being lost. The central part of the system is a modular “wearable (portable)” device, while the positioning and statusing algorithms of the person carrying the device will play an important role in its effectiveness.
+  _Responsibilities_:
+  -Conference paper publishing on LoRa simulators.
+  -Development and maintance of the project's site using Wordpress, according to the project's needs.
+  -Design and development of mechanism for wearables in LoRa networks, using C for embedded systems, and simulations on Omnet++ (C++/      NED)
 
 _INHERIT_:  "Sustainable Tourism Strategies to Conserce and Valorise the Mediterranean Coastal and Maritime Natural Heritage (INHERIT)" of the program Interreg MED.
 
@@ -57,7 +61,7 @@ __Laboratory of Distributed Systems and Telemeatics__, Department of Computer En
 -IT administrator member: Management of the servers of the Lab
 
 -Research on LPWAN (Low Power Wide Area Networks), especially on LoRa and NB-IoT. 
-Main purpose is the study of algorithms for achieving energy efficiency, using simulations such as OMNeT++.
+Main purpose is the study of algorithms for achieving energy efficiency on portable battery-constrained devices, using simulations such as OMNeT++.
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
