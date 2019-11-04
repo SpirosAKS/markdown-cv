@@ -78,6 +78,10 @@ __Laboratory of Distributed Systems and Telemeatics__, Department of Computer En
 Main purpose is the study of algorithms for achieving energy efficiency on portable battery-constrained devices, using simulations such as OMNeT++.
 
 
+## Skills
+
+__Programming Languages__ : Java, C/C++, Matlab, HTML, PHP, Javascript, XML
+__Databases__ : JRDMS (MySQL)
 
 <!-- ### Footer
 
