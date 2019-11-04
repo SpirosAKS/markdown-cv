@@ -52,6 +52,7 @@ _WeSAR_: The aim of the project is to design and develop a system for identifyin
 
 _INHERIT_:  "Sustainable Tourism Strategies to Conserce and Valorise the Mediterranean Coastal and Maritime Natural Heritage (INHERIT)" of the program Interreg MED.
 
+_GuideMe_: This proposal facilitates people with special characteristics to  move around in internal spaceswith increased orientation demands. GuideMe is a platform that provides guidance and security for these people when moving outside their homes. This solution is built upon a discrete mobile device, which is able to detect movement in interior spaces with an accuracy of 10 cm, using UWB technology. The device can also pinpoint its direction, accept voice commands and provide vocal instructions. It is able to detect falls and provide Updates. Its function is based on the mobile device’s cooperation with an app that runs on the user’s cellphone and a server.
 
 ## Occupation
 
