@@ -3,7 +3,7 @@ layout: cv
 title: Spiros' CV
 ---
 # Spyridon Aniceto Katsampiris Salgado
-Scintefic Researcher, Laboratory of Distributed Systems and Telematics, University of Patras, Patras.
+Scintefic Researcher, Laboratory of Distributed Systems and Telematics, University of Patras, Patras, Greece.
 
 <div id="webaddress">
 <a href="ksalgado@ceid.upatras.gr">ksalgado@ceid.upatras.gr</a>
@@ -24,11 +24,11 @@ Machine Learning, Internet of Things (IoT), Low Power Wide Area Networks (LPWAN)
 ## Education
 
 `2014 - 2019`
-__MEng. Computer Engineering and Informatics, University of Patras__
+__MEng. Computer Engineering and Informatics, University of Patras, Patras, Greece__
 
 
 `2019 - 2020`
-__Msc. Human Computer Interaction, University of Patras__
+__Msc. Human Computer Interaction, University of Patras, Patras, Greece__
 
 
 
