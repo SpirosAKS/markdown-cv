@@ -52,7 +52,8 @@ _GuideMe_: This proposal facilitates people with special characteristics to  mov
 ## Occupation
 
 `2018-present`
-__Laboratory of Distributed Systems and Telemeatics__, University of Patras, Patras
+__Laboratory of Distributed Systems and Telemeatics__, Department of Computer Engineering and Informatics, Building B, University of Patras, Patras, Greece
+
 -IT administrator member: Management of the servers of the Lab
 
 -Research on LPWAN (Low Power Wide Area Networks), especially on LoRa and NB-IoT. 
