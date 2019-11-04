@@ -63,8 +63,8 @@ _GuideMe_: This proposal facilitates people with special characteristics to  mov
 
 ## Occupation
 
-`2017-2018`
-__IT Member"__, EESTEC, Lc Patras, Greece
+`2016-2017`
+__IT Member__, EESTEC, Lc Patras, Greece
 
 `2017-2018`
 __Lab Assistant on the course "Databases"__, Department of Computer Engineering and Informatics, University of Patras, Patras, Greece
