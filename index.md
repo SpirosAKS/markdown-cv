@@ -13,7 +13,7 @@ Scintefic Researcher, Laboratory of Distributed Systems and Telematics, Universi
 
 ## Summary
 
-Spyridon Aniceto Katsampiris Salgado was born in 1996. He entered the Department of Computer Engineering and Informatics at University of Patras in 2014 and now he is an undergraduate student. He has obtained the Michigan Certificate of Proficiency in English. He joined Research Unit 6 in 2019 and he is interested in machine learning, Internet of the Things and LoRA networks.
+Spyridon Aniceto Katsampiris Salgado was born in 1996. He entered the Department of Computer Engineering and Informatics at University of Patras in 2014 and now he is an postgraduate student in the Master Human-Computer Interaction. He has obtained the Michigan Certificate of Proficiency in English. He joined Research Unit 6 in 2019 and he is interested in machine learning, Internet of the Things and LoRA networks.
 
 
 ### Specialized in
@@ -23,7 +23,7 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Machine Learning, Internet of Things (IoT),Low Power Wide Area Networks (LPWAN)
 
 
 ## Education
@@ -55,6 +55,7 @@ Associate, *French Academy of Science*, Paris, France
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Bouras C., Gkamas A., Katsampiris Salgado S.A., Kokkinos V. (2020) Comparison of LoRa Simulation Environments. In: Barolli L., Hellinckx P., Enokido T. (eds) Advances on Broad-Band Wireless Computing, Communication and Applications. BWCCA 2019. Lecture Notes in Networks and Systems, vol 97. Springer, Cham
 
 ### Journals
 
