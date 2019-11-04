@@ -47,7 +47,7 @@ Bouras C., Gkamas A., Katsampiris Salgado S.A., Kokkinos V. (2020) Comparison of
 
 ### Participation on Projects
 
-`2012`
+`2018-present`
 _WeSAR_: The aim of the project is to design and develop a system for identifying and rescuing individuals, especially those belonging to population groups with a particularly high probability of being lost. The central part of the system is a modular “wearable (portable)” device, while the positioning and statusing algorithms of the person carrying the device will play an important role in its effectiveness.
 
 _INHERIT_:  "Sustainable Tourism Strategies to Conserce and Valorise the Mediterranean Coastal and Maritime Natural Heritage (INHERIT)" of the program Interreg MED.
