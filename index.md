@@ -61,7 +61,15 @@ _INHERIT_:  "Sustainable Tourism Strategies to Conserce and Valorise the Mediter
 
 _GuideMe_: This proposal facilitates people with special characteristics to  move around in internal spaceswith increased orientation demands. GuideMe is a platform that provides guidance and security for these people when moving outside their homes. This solution is built upon a discrete mobile device, which is able to detect movement in interior spaces with an accuracy of 10 cm, using UWB technology. The device can also pinpoint its direction, accept voice commands and provide vocal instructions. It is able to detect falls and provide Updates. Its function is based on the mobile device’s cooperation with an app that runs on the user’s cellphone and a server.
 
+-Design and development of Localization algorithms in UWB.
+
 ## Occupation
+
+`2017-2018`
+__IT Member"__, EESTEC, Lc Patras, Greece
+
+`2017-2018`
+__Lab Assistant on the course "Databases"__, Department of Computer Engineering and Informatics, University of Patras, Patras, Greece
 
 `2018-present`
 __Laboratory of Distributed Systems and Telemeatics__, Department of Computer Engineering and Informatics, Building B, University of Patras, Patras, Greece
@@ -70,9 +78,6 @@ __Laboratory of Distributed Systems and Telemeatics__, Department of Computer En
 
 -Research on LPWAN (Low Power Wide Area Networks), especially on LoRa and NB-IoT. 
 Main purpose is the study of algorithms for achieving energy efficiency on portable battery-constrained devices, using simulations such as OMNeT++.
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
