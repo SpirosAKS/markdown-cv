@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Spiros' CV
 ---
 # Spyridon Aniceto Katsampiris Salgado
 Scintefic Researcher, Laboratory of Distributed Systems and Telematics, University of Patras, Patras.
