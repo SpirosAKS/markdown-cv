@@ -44,12 +44,20 @@ Bouras C., Gkamas A., Katsampiris Salgado S.A., Kokkinos V. (2020) Comparison of
 
 `2018-present`
 _WeSAR_: The aim of the project is to design and develop a system for identifying and rescuing individuals, especially those belonging to population groups with a particularly high probability of being lost. The central part of the system is a modular “wearable (portable)” device, while the positioning and statusing algorithms of the person carrying the device will play an important role in its effectiveness.
+
   _Responsibilities_:
+  
   -Conference paper publishing on LoRa simulators.
+  
   -Development and maintance of the project's site using Wordpress, according to the project's needs.
-  -Design and development of mechanism for wearables in LoRa networks, using C for embedded systems, and simulations on Omnet++ (C++/      NED)
+  
+  -Design and development of mechanism for wearables in LoRa networks, using C for embedded systems, and simulations on Omnet++ (C++/      NED).
 
 _INHERIT_:  "Sustainable Tourism Strategies to Conserce and Valorise the Mediterranean Coastal and Maritime Natural Heritage (INHERIT)" of the program Interreg MED.
+
+  -participation in the report for remoted islands in the Mediterranean.
+  
+  -participation in the creation of methodology for the Inheritura regions.
 
 _GuideMe_: This proposal facilitates people with special characteristics to  move around in internal spaceswith increased orientation demands. GuideMe is a platform that provides guidance and security for these people when moving outside their homes. This solution is built upon a discrete mobile device, which is able to detect movement in interior spaces with an accuracy of 10 cm, using UWB technology. The device can also pinpoint its direction, accept voice commands and provide vocal instructions. It is able to detect falls and provide Updates. Its function is based on the mobile device’s cooperation with an app that runs on the user’s cellphone and a server.
 
