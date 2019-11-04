@@ -11,9 +11,10 @@ Scintefic Researcher, Laboratory of Distributed Systems and Telematics, Universi
 </div>
 
 
-## Currently
+## Summary
 
-Standing on the shoulders of giants
+Spyridon Aniceto Katsampiris Salgado was born in 1996. He entered the Department of Computer Engineering and Informatics at University of Patras in 2014 and now he is an undergraduate student. He has obtained the Michigan Certificate of Proficiency in English. He joined Research Unit 6 in 2019 and he is interested in machine learning, Internet of the Things and LoRA networks.
+
 
 ### Specialized in
 
