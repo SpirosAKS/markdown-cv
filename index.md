@@ -39,16 +39,6 @@ __Master Human Computer Interaction, University of Patras__
 - Fellow
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
@@ -58,7 +48,8 @@ Bouras C., Gkamas A., Katsampiris Salgado S.A., Kokkinos V. (2020) Comparison of
 ### Participation on Projects
 
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+WeSAR: The aim of the project is to design and develop a system for identifying and rescuing individuals, especially those belonging to population groups with a particularly high probability of being lost. The central part of the system is a modular “wearable (portable)” device, while the positioning and statusing algorithms of the person carrying the device will play an important role in its effectiveness.
+The wearable device will offer the possibility of basic communication with base stations, that can be located many kilometers away from the device’s location. The wearable will use low energy consumption communication and long reach protocols (LoRa, NB-IoT) .The rythm or the force of the broadcasted data packets will adjust to the special conditions of application, so that battery life can last for days or even weeks.
 
 
 ## Occupation
