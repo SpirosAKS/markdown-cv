@@ -54,17 +54,8 @@ Associate, *French Academy of Science*, Paris, France
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 Bouras C., Gkamas A., Katsampiris Salgado S.A., Kokkinos V. (2020) Comparison of LoRa Simulation Environments. In: Barolli L., Hellinckx P., Enokido T. (eds) Advances on Broad-Band Wireless Computing, Communication and Applications. BWCCA 2019. Lecture Notes in Networks and Systems, vol 97. Springer, Cham
 
-### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
+### Participation on Projects
 
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
