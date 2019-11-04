@@ -3,7 +3,7 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Spyridon Aniceto Katsampiris Salgado
-Physicist, Mathematician, Cambridge professor.
+Scintefic Researcher, Laboratory of Distributed Systems and Telematics, University of Patras, Patras.
 
 <div id="webaddress">
 <a href="ksalgado@ceid.upatras.gr">ksalgado@ceid.upatras.gr</a>
