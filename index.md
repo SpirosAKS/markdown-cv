@@ -81,7 +81,9 @@ Main purpose is the study of algorithms for achieving energy efficiency on porta
 ## Skills
 
 __Programming Languages__ : Java, C/C++, Matlab, HTML, PHP, Javascript, XML
+
 __Databases__ : JRDMS (MySQL)
+
 __Foreign Languages__ : English, Greek, Spanish
 
 <!-- ### Footer
