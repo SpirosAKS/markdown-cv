@@ -3,7 +3,7 @@ layout: cv
 title: Spiros' CV
 ---
 # Spyridon Aniceto Katsampiris Salgado
-Scintefic Researcher, Laboratory of Distributed Systems and Telematics, University of Patras, Patras, Greece.
+Scientfic Researcher, Laboratory of Distributed Systems and Telematics, University of Patras, Patras, Greece.
 
 <div id="webaddress">
 <a href="ksalgado@ceid.upatras.gr">ksalgado@ceid.upatras.gr</a>
