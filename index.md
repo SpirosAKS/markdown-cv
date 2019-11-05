@@ -82,7 +82,7 @@ Main purpose is the study of algorithms for achieving energy efficiency on porta
 
 __Programming Languages__ : Java, C/C++, Matlab, HTML, PHP, Javascript, XML
 
-__Databases__ : DRDMS (MySQL)
+__Databases__ : RDMS (MySQL)
 
 __Foreign Languages__ : English, Greek, Spanish
 
