@@ -1,5 +1,5 @@
 
-markdown:   Pandoc
+markdown:  kramdown
 style:  davewhipp 
 gems:
   - jekyll-pandoc
