@@ -1,4 +1,4 @@
-markdown: pandoc
+markdown: kramdown
 pandoc:
     skip:
       full: false
